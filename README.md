@@ -11,9 +11,9 @@ I'm a **Healthcare Informatics** graduate student with a background in **MBBS** 
 - **Tools**: Excel, SAS, Git, Docker
 
 ## 📂 Featured Projects
-🔹 **[Telepathology vs. Traditional Pathology](https://github.com/ZZZ)** – Analyzing AI-assisted pathology for early cancer detection.  
-🔹 **[Healthcare Analytics Dashboard](https://github.com/YYY)** – Built an interactive Power BI dashboard for patient outcome analysis.  
-🔹 **[SQL for Healthcare](https://github.com/XXX)** – SQL queries to extract insights from healthcare datasets.  
+🔹 **[Telepathology vs. Traditional Pathology](https://github.com/)** – Analyzing AI-assisted pathology for early cancer detection.  
+🔹 **[Healthcare Analytics Dashboard](https://github.com/)** – Built an interactive Power BI dashboard for patient outcome analysis.  
+🔹 **[SQL for Healthcare](https://github.com/)** – SQL queries to extract insights from healthcare datasets.  
 
 ## 📚 Current Learning
 - Advanced **Data Science** applications in healthcare
@@ -21,7 +21,7 @@ I'm a **Healthcare Informatics** graduate student with a background in **MBBS** 
 - Expanding **Cloud & DevOps** knowledge (Azure, Docker)
 
 ## 📬 Connect with Me
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/patelr31)
+- **LinkedIn**: [linkedin.com/in/patelr31](https://linkedin.com/in/patelr31)
 - **GitHub**: [github.com/patelr31](https://github.com/patelr31)
 - **Email**: patelr31@mail.sacredheart.edu
 
