@@ -4,7 +4,7 @@
 I'm a **Healthcare Informatics** graduate student with a background in **MBBS** and a passion for **data analytics, SQL, Tableau, and health informatics**. My goal is to bridge the gap between healthcare and technology by leveraging data-driven solutions for better decision-making and patient outcomes.
 
 ## 🚀 Skills & Technologies
-- **Programming & Data**: Python (Pandas, NumPy), SQL (MySQL, Azure SQL), R
+- **Programming & Data**: Python (Pandas, NumPy), SQL (MySQL, Azure SQL)
 - **Data Visualization**: Tableau, Power BI
 - **Healthcare Tech**: Electronic Health Records (EHR), HL7, FHIR
 - **Project Management**: Agile, Scrum, Lean Six Sigma
