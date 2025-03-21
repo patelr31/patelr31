@@ -7,7 +7,6 @@ I'm a **Healthcare Informatics** graduate student with a background in **MBBS** 
 - **Programming & Data**: Python (Pandas, NumPy), SQL (MySQL, Azure SQL)
 - **Data Visualization**: Tableau, Power BI
 - **Healthcare Tech**: Electronic Health Records (EHR), HL7, FHIR
-- **Project Management**: Agile, Scrum, Lean Six Sigma
 - **Tools**: Excel, SAS, Git, Docker
 
 ## 📂 Featured Projects
